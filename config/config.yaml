@@ -97,8 +97,6 @@ platforms:
     name: "金十数据"
   - id: "juejin"
     name: "掘金"
-  - id: "linuxdo"
-    name: "LinuxDo"
   - id: "mktnews"
     name: "市场消息"
   - id: "producthunt"
